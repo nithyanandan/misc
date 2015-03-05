@@ -1,0 +1,4 @@
+Created a new module lwa_operations.py to handle data reformatting from LWA TBN
+data to a standard FITS file to disk. This makes use of the LWA Software Library
+(LSL) to get the requisite information before writing to disk.
+
